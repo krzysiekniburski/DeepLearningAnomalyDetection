@@ -1,2 +1,3 @@
 # DeepLearningAnomalyDetection
 Anomaly detection in various types of data using neural networks 
+Project structure from: https://towardsdatascience.com/structuring-machine-learning-projects-be473775a1b6
